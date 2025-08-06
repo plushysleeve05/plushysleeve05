@@ -63,16 +63,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </p>
 
-[Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plushysleeve05&show_icons=true&count_private=true&hide_title=true" height="170" />
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
+</p>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayobalima&theme=default" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayobalima&show_icons=true&hide_title=true&count_private=true" /> </p>
+📬 **Let's Connect**
 
-🗂️ Featured Projects (coming soon...)
-🎓 Student Face ID System – ML-powered ID verification using YOLO & DeepFace
+- 🔗 [LinkedIn](https://linkedin.com/in/ayobalima)
+- 📧 [Email Me](mailto:ayobalima048@gmail.com)
+- 🌐 [Portfolio (coming soon)](#)
+---
+<p align="center">
+  Built with passion 💻 | Fueled by faith 🙏🏾 | Powered by plantain 🍌
+</p>
 
-🍽️ WeRank – Flutter app for discovering affordable restaurants in Accra
-
-👶🏽 Baby Monitor App – Parent-cot alert & scream detection with PIN pairing
-
-📊 F1 Safety Analysis – Data science capstone on crash prediction in Formula 1
