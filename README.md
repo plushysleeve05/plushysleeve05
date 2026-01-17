@@ -42,7 +42,7 @@
 > because we're all a work in progress...
 
 ```diff
-- [x] Build a personal portfolio website
++ [x] Build a personal portfolio website
 + [x] Create a profile README
 - [x] Upload more projects with documentation
 - [ ] Start writing tech blog posts
