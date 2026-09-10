@@ -30,7 +30,7 @@
 ### 👨🏽‍💻 About Me
 
 - 🎓 Recent **Computer Science graduate**
-- 💼 ML Backend Intern @ **Node 8**
+  - 💼 IT Officer (Software Engineering) at GOIL PLC
 - 🔭 Working on: face recognition systems, ed-tech tools, and startup ideas
 - 🌱 Learning: FastAPI, Docker, DevOps, ML model tuning
 - 💡 Exploring AI, urban tech, & creative software projects
